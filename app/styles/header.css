@@ -27,3 +27,8 @@
   text-decoration: none;
   color: #5d727e;
 }
+
+.header #nav-text:hover {
+  color: #ffe5a4;
+  cursor: pointer;
+}
