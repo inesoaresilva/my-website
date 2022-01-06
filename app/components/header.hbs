@@ -1,4 +1,17 @@
-<LinkTo @route='index'> Home </LinkTo>
-<button>Blog</button>
-<button>Contact</button>
+<div class='header'>
+  <div class='social-media'>
+    <a href='https://twitter.com/inesoaresilva' target='_blank'>
+      <img src='assets/images/logo-twitter.svg' alt='twitter' />
+    </a>
+    <a href='https://www.linkedin.com/in/inesoaresilva/' target='_blank'>
+      <img src='assets/images/logo-linkedin.svg' alt='linkedin' />
+    </a>
+  </div>
+  <nav>
+    <LinkTo @route='index'> Home </LinkTo>
+    <LinkTo @route='about-me'> About me</LinkTo>
+    <LinkTo @route='contact'> Text me</LinkTo>
+  </nav>
+</div>
+
 {{yield}}
