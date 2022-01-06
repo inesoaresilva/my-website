@@ -6,13 +6,24 @@
 }
 .header .social-media {
   display: flex;
+  align-items: center;
   gap: 20px;
 }
 .social-media img {
-  height: 25px;
-  width: 25px;
+  display: flex;
+  height: 20px;
+  width: 20px;
 }
 .header nav {
   display: flex;
-  gap: 20px;
+  align-items: center;
+  gap: 25px;
+  font-family: 'Montserrat-ExtraBold';
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.header #nav-text {
+  text-decoration: none;
+  color: #5d727e;
 }
