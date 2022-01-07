@@ -1,0 +1,31 @@
+.logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.name {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.title {
+  font-family: 'Montserrat-SemiBold';
+  text-transform: uppercase;
+  color: #90a0a8;
+  margin: 20px 0 0;
+  z-index: 1;
+}
+.subtitle {
+  font-family: 'Montserrat-LightItalic';
+  color: #90a0a8;
+  font-size: 15px;
+  margin: 0;
+}
+.yellowDivider {
+  height: 24px;
+  width: 120%;
+  margin-top: 45px;
+  background-color: #ffe5a4;
+  position: absolute;
+}
