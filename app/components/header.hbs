@@ -18,12 +18,7 @@
   <nav>
     <LinkTo id='nav-text' @route='index'> Home </LinkTo>
     <LinkTo id='nav-text' @route='about-me'> About me</LinkTo>
-    <div class='dropdown'>
-      <LinkTo id='nav-text' @route='blog'> Blog</LinkTo>
-      <button href {{action 'dropdown'}}>
-
-      </button>
-    </div>
+    <Dropdown class='dropdown' />
     <LinkTo id='nav-text' @route='contact'> Text me</LinkTo>
 
   </nav>
