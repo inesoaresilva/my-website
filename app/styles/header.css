@@ -17,7 +17,7 @@
 .header nav {
   display: flex;
   align-items: center;
-  gap: 25px;
+  gap: 40px;
   font-family: 'Montserrat-ExtraBold';
   font-size: 16px;
   text-transform: uppercase;
