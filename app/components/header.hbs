@@ -15,13 +15,24 @@
       <img src='assets/images/logo-linkedin.svg' alt='linkedin' />
     </a>
   </div>
-  <nav>
+  <nav class='main-nav'>
     <LinkTo id='nav-text' @route='index'> Home </LinkTo>
     <LinkTo id='nav-text' @route='about-me'> About me</LinkTo>
-    <Dropdown class='dropdown' />
+    <Dropdown @title='Blog'>
+      <LinkTo id='dropdown-text' @route='blog'> All Posts</LinkTo>
+      <LinkTo id='dropdown-text' @route='blog'> Travel</LinkTo>
+      <option id='dropdown-text' value='tech'> Tech </option>
+    </Dropdown>
     <LinkTo id='nav-text' @route='contact'> Text me</LinkTo>
 
   </nav>
+  <button class='responsive-nav'>
+    <img src='assets/images/responsive-nav.svg' alt='dropdown menu' />
+  </button>
 </div>
+
+{{#if this.sidebarOpen}}
+  <div class='sidebar'></div>
+{{/if}}
 
 {{yield}}

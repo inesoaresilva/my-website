@@ -3,12 +3,11 @@
     {{on 'click' this.dropdown}}
     class='dropdown-button {{if this.open "focus"}}'
   >
-    Blog
+
+    {{@title}}
     <img class='dropdown-icon {{if this.open "focus"}}' />
   </button>
   <div class='dropdown-list {{if this.open "show"}}'>
-    <LinkTo id='dropdown-text' @route='blog'> All Posts</LinkTo>
-    <LinkTo id='dropdown-text' @route='blog'> Travel</LinkTo>
-    <option id='dropdown-text' value='tech'> Tech </option>
+    {{yield}}
   </div>
 </div>
