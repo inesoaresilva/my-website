@@ -26,13 +26,17 @@
     <LinkTo id='nav-text' @route='contact'> Text me</LinkTo>
 
   </nav>
-  <button class='responsive-nav'>
+  <button class='responsive-nav' {{on 'click' this.showSideMenu}}>
     <img src='assets/images/responsive-nav.svg' alt='dropdown menu' />
   </button>
 </div>
-
-{{#if this.sidebarOpen}}
-  <div class='sidebar'></div>
+{{#if this.openSideMenu}}
+  <div class='side-menu'>
+    <ul>
+      <li>
+        Home
+      </li>
+    </ul>
+  </div>
 {{/if}}
-
 {{yield}}

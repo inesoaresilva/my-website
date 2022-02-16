@@ -19,21 +19,29 @@
   width: 20px;
 }
 
-.header .responsive-nav {
-  display: flex;
-  justify-content: center;
-  background-color: transparent;
-  border: none;
-}
-
 @media screen and (max-width: 600px) {
   .header .main-nav {
     display: none;
   }
   .header .responsive-nav {
     display: flex;
-    flex-direction: column;
     min-height: 50px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: transparent;
+    border: none;
+  }
+  .side-menu ul {
+    list-style: none;
+  }
+  .side-menu ul li {
+    background-color: #ffe5a4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 3em;
+    width: 9em;
   }
 }
 
