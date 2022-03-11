@@ -15,7 +15,7 @@
       <img src='assets/images/logo-linkedin.svg' alt='linkedin' />
     </a>
   </div>
-  <nav class='main-nav'>
+  <nav class='main-nav {{if this.openSideMenu "side-menu"}}'>
     <LinkTo id='nav-text' @route='index'> Home </LinkTo>
     <LinkTo id='nav-text' @route='about-me'> About me</LinkTo>
     <Dropdown @title='Blog'>
@@ -26,17 +26,9 @@
     <LinkTo id='nav-text' @route='contact'> Text me</LinkTo>
 
   </nav>
-  <button class='responsive-nav' {{on 'click' this.showSideMenu}}>
-    <img src='assets/images/responsive-nav.svg' alt='dropdown menu' />
+  <button class='side-menu-button' {{on 'click' this.showSideMenu}}>
+    <img src='assets/images/responsive-nav.svg' alt='side menu button' />
   </button>
 </div>
-{{#if this.openSideMenu}}
-  <div class='side-menu'>
-    <ul>
-      <li>
-        Home
-      </li>
-    </ul>
-  </div>
-{{/if}}
+
 {{yield}}

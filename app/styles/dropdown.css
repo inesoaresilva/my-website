@@ -55,3 +55,11 @@
   color: #5d727e;
   size: 16px;
 }
+
+@media screen and (max-width: 600px) {
+  .dropdown {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+  }
+}
