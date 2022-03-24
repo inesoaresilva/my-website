@@ -1,7 +1,6 @@
 <div class='dropdown'>
   <button
-    {{on 'click' this.dropdown}}
-    class='dropdown-button {{if this.open "focus"}}'
+    class='dropdown-button {{if this.open "focus"}}' type="button" {{on 'click' this.dropdown}}
   >
 
     {{@title}}
