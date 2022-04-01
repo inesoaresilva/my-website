@@ -19,14 +19,18 @@
     <LinkTo id='nav-text' @route='index'> Home </LinkTo>
     <LinkTo id='nav-text' @route='about-me'> About me</LinkTo>
     <Dropdown @title='Blog'>
-      <LinkTo id='dropdown-text' @route='blog'> All Posts</LinkTo>
+      <LinkTo id='dropdown-text' @route='posts'> All Posts</LinkTo>
       <LinkTo id='dropdown-text' @route='blog'> Travel</LinkTo>
       <option id='dropdown-text' value='tech'> Tech </option>
     </Dropdown>
     <LinkTo id='nav-text' @route='contact'> Text me</LinkTo>
 
   </nav>
-  <button class='side-menu-button' type="button" {{on 'click' this.showSideMenu}}>
+  <button
+    class='side-menu-button'
+    type='button'
+    {{on 'click' this.showSideMenu}}
+  >
     <img src='assets/images/responsive-nav.svg' alt='side menu button' />
   </button>
 </div>

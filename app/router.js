@@ -10,4 +10,5 @@ Router.map(function () {
   this.route('about-me');
   this.route('contact');
   this.route('blog');
+  this.route('posts');
 });
