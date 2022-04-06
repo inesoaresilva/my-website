@@ -1,7 +1,10 @@
 {{page-title 'Posts'}}
 <section class='posts'>
+  <p>All Posts</p>
   <ul>
-    <p>All Posts</p>
+    {{#each @model as |post|}}
+      {{post.title}}
+    {{/each}}
   </ul>
 </section>
 {{outlet}}
