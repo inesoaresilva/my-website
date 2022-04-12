@@ -1,0 +1,12 @@
+{{page-title 'Posts'}}
+<section class='posts'>
+  <p>All Posts</p>
+  <ul>
+    {{#each @model as |post|}}
+      <LinkTo @route='posts.post' @model={{post.id}}>
+        {{post.title}}
+      </LinkTo>
+    {{/each}}
+  </ul>
+</section>
+{{outlet}}

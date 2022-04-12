@@ -10,5 +10,7 @@ Router.map(function () {
   this.route('about-me');
   this.route('contact');
   this.route('blog');
-  this.route('posts');
+  this.route('posts', function () {
+    this.route('post', { path: ':id' });
+  });
 });
