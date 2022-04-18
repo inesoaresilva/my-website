@@ -1,8 +1,15 @@
 .header {
+  position: relative;
   display: flex;
   justify-content: right;
   background-color: #b1d4e0;
-  padding: 0 20px;
+  width: auto;
+}
+
+.header .logo {
+  position: absolute;
+  left: 60px;
+  top: -5px;
 }
 
 .header .main-nav {
@@ -60,6 +67,16 @@
   background-color: transparent;
   border: none;
   margin-left: 32px;
+}
+
+@media screen and (max-width: 900px) {
+  .header .logo {
+    display: flex;
+    width: 100%;
+    margin-top: 50px;
+    top: 0;
+    left: 0;
+  }
 }
 
 @media screen and (max-width: 600px) {
