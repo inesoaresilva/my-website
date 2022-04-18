@@ -74,12 +74,9 @@
   .dropdown-list #dropdown-text {
     display: flex;
     justify-content: start;
-    padding-left: 5px;
   }
 
   .dropdown-list #dropdown-text:focus {
     background-color: #fff9e9;
-    padding-left: 5px;
-    width: 100%;
   }
 }

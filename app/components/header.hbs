@@ -1,20 +1,4 @@
 <div class='header'>
-  <div class='social-media'>
-    <a
-      href='https://twitter.com/inesoaresilva'
-      target='_blank'
-      rel='noopener noreferrer'
-    >
-      <img src='/assets/images/logo-twitter.svg' alt='twitter' />
-    </a>
-    <a
-      href='https://www.linkedin.com/in/inesoaresilva/'
-      target='_blank'
-      rel='noopener noreferrer'
-    >
-      <img src='/assets/images/logo-linkedin.svg' alt='linkedin' />
-    </a>
-  </div>
   <nav class='main-nav {{if this.openSideMenu "side-menu"}}'>
     <LinkTo id='nav-text' @route='index'> Home </LinkTo>
     <LinkTo id='nav-text' @route='about-me'> About me</LinkTo>
@@ -33,6 +17,23 @@
   >
     <img src='/assets/images/responsive-nav.svg' alt='side menu button' />
   </button>
+
+  <div class='social-media'>
+    <a
+      href='https://twitter.com/inesoaresilva'
+      target='_blank'
+      rel='noopener noreferrer'
+    >
+      <img src='/assets/images/logo-twitter.svg' alt='twitter' />
+    </a>
+    <a
+      href='https://www.linkedin.com/in/inesoaresilva/'
+      target='_blank'
+      rel='noopener noreferrer'
+    >
+      <img src='/assets/images/logo-linkedin.svg' alt='linkedin' />
+    </a>
+  </div>
 </div>
 
 {{yield}}
