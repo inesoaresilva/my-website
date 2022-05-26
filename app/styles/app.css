@@ -8,6 +8,47 @@ body {
   margin: 0;
 }
 
+h2 {
+  font-family: 'GloriaHallelujah-Regular';
+}
+
+.action-message {
+  display: flex;
+  gap: 10px;
+}
+
+.action-message h2 {
+  margin-left: 1em;
+  font-size: 18px;
+  color: #5d727e;
+  padding: 0 0.5em 0 0.5em;
+  text-transform: uppercase;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0) 50%,
+    rgba(255, 229, 164, 1) 50%,
+    rgba(255, 229, 164, 1) 100%
+  );
+}
+
+.action-message img {
+  align-self: flex-end;
+  width: 1.3em;
+}
+
+@media screen and (max-width: 600px) {
+  .action-message h2 {
+    font-size: 16px;
+  }
+}
+
+@font-face {
+  font-family: 'GloriaHallelujah-Regular';
+  src: url(/assets/fonts/GloriaHallelujah/GloriaHallelujah-Regular.ttf)
+    format('truetype');
+}
+
 @font-face {
   font-family: 'Montserrat-ExtraBold';
   src: url(/assets/fonts/Montserrat/Montserrat-ExtraBold.ttf) format('truetype');
