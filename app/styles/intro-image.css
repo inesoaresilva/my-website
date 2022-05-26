@@ -1,0 +1,23 @@
+.images-container {
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 500px;
+}
+
+.main-image {
+  object-fit: cover;
+  opacity: 0.7;
+  height: 100%;
+  width: 100%;
+}
+
+.wave-image {
+  position: absolute;
+  object-fit: cover;
+  object-position: right;
+  min-height: 150px;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
