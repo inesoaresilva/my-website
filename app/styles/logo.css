@@ -8,13 +8,20 @@
   justify-content: center;
   position: relative;
 }
-
 .title {
   font-family: 'Montserrat-SemiBold';
   text-transform: uppercase;
-  color: #90a0a8;
+  color: #5d737e;
   margin: 20px 0 0;
   z-index: 1;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0) 50%,
+    rgba(255, 229, 164, 1) 50%,
+    rgba(255, 229, 164, 1) 100%
+  );
+  padding: 0 0.5em 0 0.5em;
 }
 .subtitle {
   font-family: 'Montserrat-LightItalic';
