@@ -95,6 +95,7 @@
 
   .header .main-nav.side-menu {
     display: flex;
+    z-index: 1;
     top: 50px;
     width: 100%;
     justify-content: flex-start;
