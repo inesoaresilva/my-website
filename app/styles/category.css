@@ -1,0 +1,30 @@
+.category {
+  margin-left: 1em;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.circle-icon {
+  background-color: #ffe5a4;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}
+
+.circle-icon.travel {
+  background-image: url('../../assets/images/travel-icon.svg');
+}
+
+.circle-icon.tech {
+  background-image: url('../../assets/images/tech-icon.svg');
+}
+
+.category p {
+  font-family: 'GloriaHallelujah-Regular';
+  margin: 0px;
+  font-size: 12px;
+  align-self: center;
+  color: #5d737e;
+}
