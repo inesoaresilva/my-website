@@ -23,12 +23,7 @@
   );
   padding: 0 0.5em 0 0.5em;
 }
-.subtitle {
-  font-family: 'Montserrat-LightItalic';
-  color: #90a0a8;
-  font-size: 15px;
-  margin: 0;
-}
+
 .yellowDivider {
   height: 24px;
   width: 120%;
