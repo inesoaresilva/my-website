@@ -1,7 +1,7 @@
 .header {
   position: relative;
   display: flex;
-  justify-content: right;
+  justify-content: flex-end;
   background-color: #b1d4e0;
   width: auto;
 }
