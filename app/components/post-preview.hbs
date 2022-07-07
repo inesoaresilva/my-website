@@ -1,0 +1,14 @@
+<div class='blogpost'>
+  <div class='blogpost-header'>
+    <Category @icon={{@post.category}} @text={{@post.category}} />
+    <h3><span>{{@post.title}}</span></h3>
+  </div>
+  <p>{{markdown-to-html @post.description}}</p>
+  <div class='post-image'>
+    <PolaroidImage @src='../../assets/images/{{@post.image}}' />
+  </div>
+</div>
+
+<LinkTo @route='posts.post' @model={{@post.id}}>
+  Read More
+</LinkTo>
