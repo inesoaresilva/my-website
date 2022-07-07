@@ -1,0 +1,13 @@
+{{page-title 'Category'}}
+<section class='posts'>
+  <div class='action-message'>
+    <h2>All Posts</h2>
+    <img alt='' role='presentation' src='../../assets/images/down-arrow.svg' />
+  </div>
+  <ul class='posts-list'>
+    {{#each @model as |post|}}
+      <PostPreview @post={{post}} />
+    {{/each}}
+  </ul>
+</section>
+{{outlet}}

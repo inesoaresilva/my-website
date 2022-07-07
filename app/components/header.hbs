@@ -5,7 +5,8 @@
     <LinkTo id='nav-text' @route='about-me'> About me</LinkTo>
     <Dropdown @title='Blog'>
       <LinkTo id='dropdown-text' @route='posts'> All Posts</LinkTo>
-      <LinkTo id='dropdown-text' @route='blog'> Travel</LinkTo>
+      <LinkTo id='dropdown-text' @route='posts.category' @model='travel'>
+        Travel</LinkTo>
       <option id='dropdown-text' value='tech'> Tech </option>
     </Dropdown>
     <LinkTo id='nav-text' @route='contact'> Text me</LinkTo>

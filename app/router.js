@@ -12,5 +12,6 @@ Router.map(function () {
   this.route('blog');
   this.route('posts', function () {
     this.route('post', { path: ':id' });
+    this.route('category', { path: 'category/:category' });
   });
 });
