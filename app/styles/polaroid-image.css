@@ -1,11 +1,21 @@
 .polaroid {
-  background-color: rgba(255, 229, 164, 0.6);
-  height: 266.25px;
-  width: 220px;
+  display: inline-block;
+  padding: 20px 20px 30px;
+  text-align: center;
+  background-color: #fff8e4;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
   filter: drop-shadow(0px 4px 4px rgba(216, 216, 216, 0.5));
 }
 
 .polaroid img {
-  height: 192px;
-  width: 192px;
+  display: block;
+  width: 275px;
+  object-fit: cover;
+}
+
+.blogpost .polaroid p {
+  font-family: 'GloriaHallelujah-Regular';
+  font-size: 0.8rem;
+  margin-bottom: 0;
+  max-width: 275px;
 }

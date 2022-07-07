@@ -5,7 +5,10 @@
   </div>
   <p>{{markdown-to-html @post.description}}</p>
   <div class='post-image'>
-    <PolaroidImage @src='../../assets/images/{{@post.image}}' />
+    <PolaroidImage
+      @src='../../assets/images/{{@post.image}}'
+      @description='post created in {{@post.date}}'
+    />
   </div>
 </div>
 
