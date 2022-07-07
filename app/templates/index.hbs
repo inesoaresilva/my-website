@@ -1,4 +1,10 @@
 <div class='action-message'>
   <h2>Check my latest posts</h2>
-  <img src='../../assets/images/down-arrow.svg' />
+  <img role='presentation' alt='' src='../../assets/images/down-arrow.svg' />
 </div>
+
+<ul class='posts-list'>
+  {{#each @model as |post|}}
+    <PostPreview @post={{post}} />
+  {{/each}}
+</ul>
