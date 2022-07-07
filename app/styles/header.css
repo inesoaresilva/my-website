@@ -39,12 +39,12 @@
   width: 20px;
 }
 
-.header #nav-text {
+.header .nav-text {
   text-decoration: none;
   color: #5d727e;
 }
 
-.header #nav-text:hover {
+.header .nav-text:hover {
   color: #ffe5a4;
   cursor: pointer;
 }
@@ -105,7 +105,7 @@
     align-items: stretch;
   }
 
-  .header .main-nav.side-menu #nav-text {
+  .header .main-nav.side-menu .nav-text {
     line-height: 20px;
     background-color: #b1d4e0;
     display: flex;

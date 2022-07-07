@@ -1,15 +1,15 @@
 <div class='header'>
   <Logo />
   <nav class='main-nav {{if this.openSideMenu "side-menu"}}'>
-    <LinkTo id='nav-text' @route='index'> Home </LinkTo>
-    <LinkTo id='nav-text' @route='about-me'> About me</LinkTo>
+    <LinkTo class='nav-text' @route='index'> Home </LinkTo>
+    <LinkTo class='nav-text' @route='about-me'> About me</LinkTo>
     <Dropdown @title='Blog'>
-      <LinkTo id='dropdown-text' @route='posts'> All Posts</LinkTo>
-      <LinkTo id='dropdown-text' @route='posts.category' @model='travel'>
+      <LinkTo class='dropdown-text' @route='posts'> All Posts</LinkTo>
+      <LinkTo class='dropdown-text' @route='posts.category' @model='travel'>
         Travel</LinkTo>
-      <option id='dropdown-text' value='tech'> Tech </option>
+      <option class='dropdown-text' value='tech'> Tech </option>
     </Dropdown>
-    <LinkTo id='nav-text' @route='contact'> Text me</LinkTo>
+    <LinkTo class='nav-text' @route='contact'> Text me</LinkTo>
 
   </nav>
   <button

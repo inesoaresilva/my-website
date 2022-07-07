@@ -7,7 +7,6 @@ export default class Dropdown extends Component {
 
   @action
   showSideMenu() {
-    console.log(this.openSideMenu);
     this.openSideMenu = !this.openSideMenu;
   }
 }
