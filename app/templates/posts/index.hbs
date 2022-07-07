@@ -1,11 +1,12 @@
 {{page-title 'Posts'}}
 <section class='posts'>
-  <p>All Posts</p>
-  <ul>
+  <div class='action-message'>
+    <h2>All Posts</h2>
+    <img role='presentation' alt='' src='../../assets/images/down-arrow.svg' />
+  </div>
+  <ul class='posts-list'>
     {{#each @model as |post|}}
-      <LinkTo @route='posts.post' @model={{post.id}}>
-        {{post.title}}
-      </LinkTo>
+      <PostPreview @post={{post}} />
     {{/each}}
   </ul>
 </section>
