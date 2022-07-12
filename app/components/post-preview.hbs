@@ -1,13 +1,13 @@
-<div class='blogpost'>
-  <div class='blogpost-header'>
-    <Category @icon={{@post.category}} @text={{@post.category}} />
-    <h3><span>{{@post.title}}</span></h3>
-  </div>
-  <p>{{markdown-to-html @post.description}}</p>
+<div class='blogpost-header'>
+  <Category @icon={{@post.category}} @text={{@post.category}} />
+  <h3><span>{{@post.title}}</span></h3>
+</div>
+<div class='blogpost-body'>
+  <p class='blogpost-description'>{{markdown-to-html @post.description}}</p>
   <div class='post-image'>
     <PolaroidImage
       @src='../../assets/images/{{@post.image}}'
-      @description='post created in {{@post.date}}'
+      @description='post created in {{format-date @post.date}}'
     />
   </div>
 </div>
