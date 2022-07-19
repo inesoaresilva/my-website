@@ -4,6 +4,7 @@
 @import './intro-image.css';
 @import './category.css';
 @import './polaroid-image.css';
+@import './post-preview.css';
 
 body {
   padding: 0;
@@ -40,7 +41,6 @@ h3 {
 }
 
 .posts-list {
-  margin: 0 2em 0 2em;
   padding: 0;
 }
 
@@ -64,7 +64,7 @@ h3 {
   );
 }
 
-.blogpost p {
+.blogpost-description {
   font-family: 'WorkSans-Regular', sans-serif;
   color: #5d727e;
 }
