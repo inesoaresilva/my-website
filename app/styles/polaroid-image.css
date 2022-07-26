@@ -1,6 +1,6 @@
 .polaroid {
   display: inline-block;
-  padding: 20px 20px 30px;
+  padding: 20px 20px 0;
   text-align: center;
   background-color: #fff8e4;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
@@ -13,9 +13,11 @@
   object-fit: cover;
 }
 
-.blogpost .polaroid p {
+.polaroid p {
   font-family: 'GloriaHallelujah-Regular';
   font-size: 0.8rem;
   margin-bottom: 0;
   max-width: 275px;
+  padding: 15px 0px;
+  color: #5d727e;
 }
