@@ -1,11 +1,11 @@
 {{page-title 'Category'}}
 <section class='posts'>
   <div class='action-message'>
-    <h2>All Posts</h2>
+    <h2>All {{@model.category}} Posts</h2>
     <img alt='' role='presentation' src='../../assets/images/down-arrow.svg' />
   </div>
   <ul class='posts-list'>
-    {{#each @model as |post|}}
+    {{#each @model.filteredPosts as |post|}}
       <PostPreview @post={{post}} />
     {{/each}}
   </ul>
