@@ -64,14 +64,19 @@ h3 {
   );
 }
 
-.blogpost-description {
-  font-family: 'WorkSans-Regular', sans-serif;
+.blogpost-description, .blogpost-body {
+  font-family: 'Montserrat-Regular', sans-serif;
   color: #5d727e;
 }
 
 .action-message img {
   align-self: flex-end;
   width: 1.3em;
+}
+
+
+.home-page{
+  margin: 0 48px;
 }
 
 @media screen and (max-width: 600px) {
@@ -84,6 +89,12 @@ h3 {
   font-family: 'GloriaHallelujah-Regular';
   src: url(/assets/fonts/GloriaHallelujah/GloriaHallelujah-Regular.woff2)
     format('woff2');
+}
+
+@font-face {
+  font-family: 'Montserrat-Regular';
+  font-weight: 400;
+  src: url(/assets/fonts/Montserrat/Montserrat-Regular.woff2) format('woff2');
 }
 
 @font-face {
