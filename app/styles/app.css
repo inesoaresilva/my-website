@@ -26,7 +26,7 @@ h3 {
 .action-message {
   display: flex;
   gap: 10px;
-  margin-bottom: 3em;
+  margin-bottom: 32px;
 }
 
 .action-message h2 {
