@@ -55,7 +55,6 @@ h3 {
 
 .blogpost-header h1 span {
   font-family: 'Montserrat-Bold', 'sans-serif';
-  font-size: 18px;
   color: #5d727e;
   padding: 0 0.5em 0 0.5em;
   text-transform: uppercase;
@@ -93,12 +92,9 @@ h3 {
   margin: 2rem 0 0.5rem;
 }
 
-.post-subtitle {
-  display: inline-flex;
-}
-
-.post-subtitle span {
-  font-size: 1rem;
+.full-post h2 {
+  width: fit-content;
+  font-family: 'Montserrat-Bold', 'sans-serif';
   color: #5d727e;
   padding: 0 0.5rem;
   background: linear-gradient(
@@ -117,6 +113,14 @@ h3 {
 }
 
 @media screen and (max-width: 768px) {
+  h1{
+    font-size: 24px;
+  }
+
+  h2{
+    font-size: 20px;
+  }
+
   .home-page, .full-post{
     margin: 0 16px;
   }
