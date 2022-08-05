@@ -78,6 +78,17 @@ h3 {
   margin: 0 48px;
 }
 
+.full-post .post-date {
+  font-family: 'Montserrat-Light', sans-serif;
+  color: #5d727e;
+  font-size: 0.8rem;
+  margin:0;
+}
+
+.full-post h3 {
+  margin: 2rem 0 0.5rem;
+}
+
 @media screen and (max-width: 600px) {
   .action-message h2 {
     font-size: 16px;
@@ -94,6 +105,12 @@ h3 {
   font-family: 'GloriaHallelujah-Regular';
   src: url(/assets/fonts/GloriaHallelujah/GloriaHallelujah-Regular.woff2)
     format('woff2');
+}
+
+@font-face {
+  font-family: 'Montserrat-Light';
+  font-weight: 300;
+  src: url(/assets/fonts/Montserrat/Montserrat-Light.woff2) format('woff2');
 }
 
 @font-face {

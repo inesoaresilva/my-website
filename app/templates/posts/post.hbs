@@ -1,6 +1,11 @@
 {{page-title 'Post'}}
-<article>
-  <h2>{{@model.title}}</h2>
-  {{{@model.html}}}
+<article class="full-post">
+  <div class="blogpost-header">
+    <h3><span>{{@model.title}}</span></h3>
+  </div>
+  <p class="post-date"> post created in {{format-date @post.date}}</p>
+  <div class="blogpost-body">
+    <p>{{{@model.html}}}</p>
+  </div>
 </article>
 {{outlet}}
