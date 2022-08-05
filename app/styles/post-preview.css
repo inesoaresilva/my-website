@@ -38,7 +38,7 @@
   .blogpost-preview{
     margin: 0 16px;
   }
-  .blogpost-body {
+  .blogpost-preview .blogpost-body {
     flex-direction: column-reverse;
   }
 }

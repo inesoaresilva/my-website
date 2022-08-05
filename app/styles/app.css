@@ -120,6 +120,12 @@ h3 {
   .home-page, .full-post{
     margin: 0 16px;
   }
+
+  .full-post .blogpost-body {
+    flex-direction: column;
+    margin-top: 32px;
+    gap: 1rem;
+  }
 }
 
 @font-face {
