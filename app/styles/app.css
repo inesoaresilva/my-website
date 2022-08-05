@@ -11,6 +11,10 @@ body {
   margin: 0;
 }
 
+strong {
+  font-family: 'Montserrat-Bold', sans-serif;
+}
+
 h2 {
   font-family: 'GloriaHallelujah-Regular';
 }
@@ -150,7 +154,7 @@ h3 {
 
 @font-face {
   font-family: 'Montserrat-Bold';
-  font-weight: 700;
+  font-weight: bold;
   src: url(/assets/fonts/Montserrat/Montserrat-Bold.woff2) format('woff2');
 }
 
