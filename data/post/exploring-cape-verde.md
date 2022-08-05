@@ -8,14 +8,17 @@ date: 2018-01-13T00:00:00.000Z
 comments: 3
 ---
 
-sldkjfldskjfldskjf
+Write a big long intro about the post to get poeople hooked! 
 
-## 
+<figure>
+<img role='img' alt='img' src='/assets/images/intro-image.jpg' />
+<figcaption> hello **Chris** </figcaption>
+</figure>
 
-<!-- ![alt text for img](/assets/images/intro-image.jpg) -->
-hello **Chris**
+## How did the Idea Start
 
-> how are you
-<div class="post-subtitle">
-<h4> <span>How Did the Idea Start</span> </h4>
-</div>
+Now I'm just writing Markdown because it's awesome 
+
+```javascript
+let thing = 'hello`
+```

@@ -1,19 +1,21 @@
-.polaroid {
+figure {
   display: inline-block;
   padding: 20px 20px 0;
   text-align: center;
+  margin: auto;
   background-color: #fff8e4;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
   filter: drop-shadow(0px 4px 4px rgba(216, 216, 216, 0.5));
 }
 
-.polaroid img {
+figure img {
+  aspect-ratio: 1;
   display: block;
   width: 275px;
   object-fit: cover;
 }
 
-.polaroid p {
+figure figcaption {
   font-family: 'GloriaHallelujah-Regular';
   font-size: 0.8rem;
   margin-bottom: 0;
