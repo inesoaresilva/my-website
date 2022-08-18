@@ -62,6 +62,19 @@ h3 {
   color: #5d727e;
 }
 
+.blogpost-body {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+.blogpost-body p, .blogpost-body h2, .blogpost-body pre {
+  grid-column: 1;
+}
+
+.blogpost-body figure {
+  grid-column: 2;
+}
+
 .action-message img {
   align-self: flex-end;
   width: 1.3em;
