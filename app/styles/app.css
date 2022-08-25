@@ -38,14 +38,12 @@ h3 {
 }
 
 .blogpost-header {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   gap: 1em;
 }
 
 .blogpost-header h1 span {
-  font-family: 'Montserrat-Bold', 'sans-serif';
-  color: #5d727e;
   padding: 0 0.5em 0 0.5em;
   text-transform: uppercase;
   background: linear-gradient(
