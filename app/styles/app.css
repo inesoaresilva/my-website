@@ -159,13 +159,6 @@ h2,
   }
 }
 
-@media screen and (max-width: 576px) {
-  .full-post .blogpost-body iframe {
-    width: 300px;
-    height: 168.75px;
-  }
-}
-
 @media screen and (max-width: 768px) {
   h1{
     font-size: 24px;
@@ -186,13 +179,14 @@ h2,
     gap: 0;
   }
 
-  .full-post .blogpost-body iframe {
-    width: 640px;
-    height: 360px;
-  }
-
   .full-post .blogpost-body h2 {
     margin-bottom: 2rem;
+  }
+
+  .full-post .blogpost-body iframe {
+    width: 320px;
+    height: 181px;
+    align-self: center;
   }
 
   .full-post .blogpost-body figure:first-of-type {
