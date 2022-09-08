@@ -1,7 +1,10 @@
 <article class="blogpost-preview">
   <div class='blogpost-header'>
     <Category @icon={{@post.category}} @text={{@post.category}} />
-    <h1><span>{{@post.title}}</span></h1>
+    <LinkTo class='link' aria-label="Read more about {{@post.title}}"
+    @route='posts.post' @model={{@post.id}}>
+       <h1><span>{{@post.title}}</span></h1>
+    </LinkTo>
   </div>
   <div class='blogpost-body'>
     <p class='blogpost-description'>{{markdown-to-html @post.description}}</p>
