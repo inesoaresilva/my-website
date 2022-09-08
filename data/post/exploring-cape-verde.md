@@ -6,7 +6,7 @@ I was working and enjoying the country at the same time. <p> As a way to documen
 <p>Lastly, I reflect on my nomad experience and I put down what I think about nomadic lifestyle.</p>
 <p>At the end, I share a video of a presentation I gave on this topic for the ones that prefer video format.</p>"
 image: "remote-work-cape-verde.jpg"
-date: 2018-01-13T00:00:00.000Z
+date: 2022-09-13T00:00:00.000Z
 comments: 3
 ---
 
