@@ -5,6 +5,7 @@
 @import './category.css';
 @import './polaroid-image.css';
 @import './post-preview.css';
+@import './about-me.css';
 
 body {
   padding: 0;
@@ -16,6 +17,8 @@ strong {
 }
 
 p {
+  font-family: 'Montserrat-Regular', sans-serif;
+  color: #5d727e;
   line-height: 1.5em;
 }
 

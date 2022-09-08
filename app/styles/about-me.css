@@ -1,0 +1,30 @@
+.about-me ul,
+.about-me li {
+  font-family: 'Montserrat-Regular', sans-serif;
+  color: #5d727e;
+  line-height: 1.5em;
+  margin: 0;
+  list-style: none;
+  padding: 0;
+}
+
+.about-me li {
+  padding-left: 0.5rem;
+}
+
+.about-me {
+  margin: 0 56px;
+  display: block;
+}
+
+.about-me figure {
+  float: right;
+  clear: both;
+  margin: 0 0 1rem 1rem;
+}
+
+@media screen and (max-width: 768px) {
+  .about-me {
+    margin: 0 24px;
+  }
+}
