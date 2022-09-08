@@ -92,7 +92,7 @@ h3 {
 .full-post figure {
   float: right;
   clear: both;
-  margin: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .action-message img {
@@ -183,10 +183,6 @@ h2,
 
   .full-post .blogpost-body h2 {
     margin-bottom: 2rem;
-  }
-
-  .full-post .blogpost-body figure {
-    margin: 0 0 01rem;
   }
 
   .full-post .blogpost-body figure:first-of-type {
