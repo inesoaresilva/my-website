@@ -173,8 +173,8 @@ Two months was a reasonable time frame: the first month, I was exploring, and in
 <figcaption> Camping in a desertic beach with other remote workers</figcaption>
 </figure>
 
-My favorite plan was to take a day to do off-road and spend a night on a big desertic beach.
-We did all the cliches of a beach fire camp - obviously, the bonfire first, singing Wonderwall on the guitar, watching the stars and the fluorescent plankton in the water.
+My favorite plan happened when we went for an off-road drive to reach a big desertic beach and spend a night there.
+We did all the cliches of a beach campfire - obviously, the bonfire first, singing Wonderwall on the guitar, watching the stars and the fluorescent plankton in the water.
 
 ### Connecting with Locals
 
@@ -231,17 +231,16 @@ I guess the reason behind the price was the fact it was the only co-working in t
 <figcaption> Working from Prime Coworking </figcaption>
 </figure>
 
-### Staying Alone as a Woman
+### Being a Woman & Staying Alone
 
-Lastly, this is a challenge related to being a woman there.
-I definitely look tourist there, but that doesn't help.
+I definitely look like a tourist there and that doesn't help.
 Every time I would go back home alone during the day, I would hear guys shouting every minute. Some of my favorite punchlines were 'I like your mouth' or when they would do just noises 🙃
 
-The other tourist girls that were there experienced the same.
+Other foreigner women that were there experienced the same.
 
 I never felt in danger but they could be very weird and inappropriate if you wouldn't put a barrier.
 
-Some moments even make me laugh now - one time at night in a street in front of a bar, there was a guy that starts smelling the hair of one of our friends & another situation happened to me when I was doing a workout alone at the beach and a guy sits next to me and starts making a noise as if he was calling a dog 😐😠
+Some moments even make me laugh now - one time at night in a street in front of a bar, there was a guy that started smelling the hair of one of our friends & another situation happened to me when I was doing a workout alone at the beach and a guy sat next to me and starts making noises as if he was calling a dog 😐😠
 
 ## My thoughts about Nomadic Lifestyle
 
