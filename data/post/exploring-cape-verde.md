@@ -242,7 +242,7 @@ I never felt in danger but they could be very weird and inappropriate if you wou
 
 Some moments even make me laugh now - one time at night in a street in front of a bar, there was a guy that started smelling the hair of one of our friends & another situation happened to me when I was doing a workout alone at the beach and a guy sat next to me and starts making noises as if he was calling a dog 😐😠
 
-## My thoughts about Nomadic Lifestyle
+<span class="yellow-underline">My thoughts about Nomadic Lifestyle</span>
 
 For five months, I lived a nomadic lifestyle.
 
