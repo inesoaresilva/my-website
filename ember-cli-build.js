@@ -8,6 +8,12 @@ module.exports = function (defaults) {
     fingerprint: {
       extensions: ['js', 'css', 'map'],
     },
+    prember: {
+      urls: ['/', '/about-me', '/posts'],
+    },
+    fastboot: {
+      hostWhitelist: [/localhost:\d+/],
+    },
   });
 
   // Use `app.import` to add additional libraries to the generated
