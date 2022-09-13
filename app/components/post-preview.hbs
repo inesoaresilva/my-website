@@ -13,12 +13,4 @@
       @description='post created in {{format-date @post.date}}'
     />
   </div>
-
-  <div class="blogpost-footer">
-      <LinkTo class='link' aria-label="Read more about {{@post.title}}"
-    @route='posts.post' @model={{@post.id}}>
-      Read More 
-    </LinkTo>
-  </div>
- 
 </article>
