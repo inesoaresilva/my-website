@@ -238,7 +238,7 @@ I guess the reason behind the price was the fact it was the only co-working in t
 I definitely look like a tourist there and that doesn't help.
 Every time I would go back home alone during the day, I would hear guys shouting every minute. Some of my favorite punchlines were 'I like your mouth' or when they would do just noises 🙃
 
-Other foreigner women that were there experienced the same.
+Other foreign women that were there experienced the same.
 
 I never felt in danger but they could be very weird and inappropriate if you wouldn't put a barrier.
 
