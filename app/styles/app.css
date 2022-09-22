@@ -125,7 +125,9 @@ h3 {
 }
 
 .home-page, .full-post{
-  margin: 0 48px;
+  max-width: 82.75rem;
+  margin: auto;
+  padding: 0 16px;
 }
 
 .full-post .post-date {
@@ -192,7 +194,7 @@ h2,
   }
 
   .home-page, .full-post{
-    margin: 0 16px;
+    margin: 0 8px;
   }
 
   .full-post .blogpost-body {
