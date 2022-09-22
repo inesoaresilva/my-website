@@ -26,6 +26,25 @@ h3 {
   font-family: 'Montserrat-Bold';
 }
 
+
+.full-post a:link {
+  color: #5d727e;
+  text-decoration: none;
+  background-image: linear-gradient(transparent calc(100% - 0.45em), #B1D4E0 0),
+    linear-gradient(transparent calc(100% - 0.45em), #D7EBF2 0);
+  background-repeat: no-repeat;
+  background-size: 0 100%, 100% 100%;
+}
+
+.full-post a:visited {
+  color: #3E4D56;
+}
+
+.full-post a:visited, .full-post a:hover, .full-post a:active {
+  background-size: 100% 100%, 100%, 100%;
+}
+
+
 .action-message {
   display: flex;
   gap: 10px;
