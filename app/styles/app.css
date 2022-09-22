@@ -27,7 +27,7 @@ h3 {
 }
 
 
-.full-post a:link {
+.full-post a:link, .about-me a:link {
   color: #5d727e;
   text-decoration: none;
   background-image: linear-gradient(transparent calc(100% - 0.45em), #B1D4E0 0),
@@ -36,11 +36,11 @@ h3 {
   background-size: 0 100%, 100% 100%;
 }
 
-.full-post a:visited {
+.full-post a:visited, .about-me a:visited {
   color: #3E4D56;
 }
 
-.full-post a:visited, .full-post a:hover, .full-post a:active {
+.full-post a:visited, .full-post a:hover, .full-post a:active, .about-me a:visited, .about-me a:hover, .about-me a:active{
   background-size: 100% 100%, 100%, 100%;
 }
 
@@ -124,7 +124,7 @@ h3 {
   width: 1.3em;
 }
 
-.home-page, .full-post{
+.home-page, .full-post, .about-me{
   max-width: 82.75rem;
   margin: auto;
   padding: 0 16px;
