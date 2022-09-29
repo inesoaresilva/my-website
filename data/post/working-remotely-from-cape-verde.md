@@ -236,15 +236,15 @@ I guess the reason behind the price was the fact it was the only co-working in t
 ### Being a Woman & Staying Alone
 
 I definitely look like a tourist there and that doesn't help.
-Every time I would go back home alone during the day, I would hear guys shouting every minute. Some of my favorite punchlines were 'I like your mouth' or when they would do just noises 🙃
+Every time I would go back home alone during the day, I would hear guys shouting every minute. Some of my favorite punchlines were 'You have a beautiful mouth' or when they would do just noises 🙃
 
 Other foreign women that were there experienced the same.
 
 I never felt in danger but they could be very weird and inappropriate if you wouldn't put a barrier.
 
-Some moments even make me laugh now - one time at night in a street in front of a bar, there was a guy that started smelling the hair of one of our friends & another situation happened to me when I was doing a workout alone at the beach and a guy sat next to me and starts making noises as if he was calling a dog 😐😠
+Some moments even make me laugh now - one time at night in a street in front of a bar, there was a guy that started smelling the hair of one of our friends & another situation happened to me when I was doing a workout alone at the beach and a guy sat next to me and started making noises as if he was calling a dog 😐😠
 
-<span class="yellow-underline">My thoughts about Nomadic Lifestyle</span>
+<h2><span>My thoughts about Nomadic Lifestyle</span></h2>
 
 For five months, I lived a nomadic lifestyle.
 

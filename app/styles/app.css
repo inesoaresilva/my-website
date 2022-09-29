@@ -26,6 +26,10 @@ h3 {
   font-family: 'Montserrat-Bold';
 }
 
+article, .home-page{
+  max-width: 100rem;
+  margin: auto;
+}
 
 .full-post a:link, .about-me a:link {
   color: #5d727e;
@@ -124,12 +128,6 @@ h3 {
   width: 1.3em;
 }
 
-.home-page, .full-post, .about-me{
-  max-width: 82.75rem;
-  margin: auto;
-  padding: 0 16px;
-}
-
 .full-post .post-date {
   font-family: 'Montserrat-Light', sans-serif;
   color: #5d727e;
@@ -156,7 +154,7 @@ h2 {
   background-size: 100% 20px;
 }
 
-span.yellow-underline{
+h2.span.yellow-underline{
   line-height: 20px;
   font-size: 20px;
   background-size: 100% 20px;
@@ -166,8 +164,8 @@ span.yellow-underline{
   color: #5d727e;
 }
 
-h2,
-.yellow-underline, .action-message h1{
+
+.yellow-underline, .action-message h1, h2{
   background: linear-gradient(
     180deg,
     transparent,
@@ -193,8 +191,8 @@ h2,
     font-size: 20px;
   }
 
-  .home-page, .full-post{
-    margin: 0 8px;
+  article, .home-page{
+    margin: 0 12px;
   }
 
   .full-post .blogpost-body {
@@ -205,7 +203,7 @@ h2,
   }
 
   .full-post .blogpost-body h2 {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
   }
 
   .full-post .blogpost-body iframe {
