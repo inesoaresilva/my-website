@@ -2,11 +2,19 @@
 
 const EmberApp = require('ember-cli/lib/broccoli/ember-app');
 
+const fs = require('fs');
+let posts = fs.readdirSync('data/post').map((file) => {
+  return `posts/${file.replace(/\.md$/, '')}`;
+});
+
 module.exports = function (defaults) {
   let app = new EmberApp(defaults, {
     // Add options here
     fingerprint: {
       extensions: ['js', 'css', 'map'],
+    },
+    prember: {
+      urls: ['/', '/about-me', '/posts', ...posts],
     },
   });
 
