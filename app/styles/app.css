@@ -154,18 +154,8 @@ h2 {
   background-size: 100% 20px;
 }
 
-h2.span.yellow-underline{
-  line-height: 20px;
-  font-size: 20px;
-  background-size: 100% 20px;
-  max-width: fit-content;
-  font-family: 'Montserrat-Bold', 'sans-serif';
-  padding: 0 0.5rem;
-  color: #5d727e;
-}
 
-
-.yellow-underline, .action-message h1, h2{
+.action-message h1 span, h2 span{
   background: linear-gradient(
     180deg,
     transparent,

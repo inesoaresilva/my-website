@@ -25,7 +25,7 @@ It was a different way of being a tourist, and I wanted to document everything.
 
 ---
 
-## How did the Idea Start
+<h2><span>How did the Idea Start</span></h2>
 
 One day, when I was scrolling on my Facebook, I saw an advertisement that caught my attention.
 
@@ -45,7 +45,7 @@ That was it, in October of 2021 I was requesting my passport for the first time.
 <figcaption> View of S. Vicente from Cruz de Papa, Pedra Rolada </figcaption>
 </figure>
 
-## About the Country
+<h2><span>About the Country</span></h2>
 
 Cape Verde is the most western point of Africa. It is composed of 9 inhabited islands and one uninhabited.
 
@@ -115,7 +115,7 @@ Before Cape Verde, I always traveled within Europe, where countries tend to be s
 
 This was the longest time I spent away from Europe. However, I didn't feel a cultural shock. I just noticed some differences - more community spirit and happier people. These differences are probably a reflection of being a small city (~70 000 inhabitants) and having good weather all year round 😛
 
-## My Routine
+<h2><span>My routine</span></h2>
 
 Moving to a new country often means your routine will change.
 
@@ -160,7 +160,7 @@ Later in my stay, I started including more activities to my week, I joined a loc
 
 The weekends felt like short vacations, where we often made longer trips, like visiting other islands.
 
-## Highlights
+<h2><span>Highlights</span></h2>
 
 For me, this felt like doing an [Erasmus](https://en.wikipedia.org/wiki/Erasmus_Programme) program again (but without being broke 😂).
 
@@ -260,7 +260,7 @@ I encourage everyone to try out this lifestyle if you have the chance -  you get
 
 I just want to let awareness that there are challenges in being a nomad, the world is still not fully adapted to this lifestyle - most things require long-term contracts and short-term solutions tend to be way more expensive, especially housing.
 
-## Video
+<h2><span>Video</span></h2>
 
 In the company I work for, we have a monthly event - Lunch & Learn.
 The goal is to promote sharing knowledge and experiences, so here is the video of my talk there.
