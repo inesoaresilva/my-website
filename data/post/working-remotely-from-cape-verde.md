@@ -180,7 +180,7 @@ We did all the cliches of a beach campfire - obviously, the bonfire first, singi
 
 ### Connecting with Locals
 
-Connecting with locals, made me feel less like a tourist and more like an inhabitant, which I find pretty unique.
+Connecting with locals, made me feel less like a tourist and more like an inhabitant.
 
 <figure>
 <img role='img' alt='img' src='/assets/images/posts/working-remotely-from-cape-verde/tennis-with-jose.jpeg' >
