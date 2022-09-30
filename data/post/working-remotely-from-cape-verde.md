@@ -262,10 +262,10 @@ I just want to let awareness that there are challenges in being a nomad, the wor
 
 <h2><span>Video</span></h2>
 
-In the company I work for, we have a monthly event - Lunch & Learn.
-The goal is to promote sharing knowledge and experiences, so here is the video of my talk there.
+At Mainmatter (where I work atm), we have a monthly event - Lunch & Learn.
+The goal is to promote sharing of knowledge and experiences among the team, so here is the video of the talk I presented there this year.
 
-So if you are not a reader but you still want to know about my experience in Cape Verde, jump into the video:
+If you are not a reader but you still want to know about my experience in Cape Verde, jump into the video:
 
 <iframe
     src="https://www.youtube.com/embed/Xrw4RlEg7iE"
