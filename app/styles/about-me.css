@@ -19,7 +19,7 @@
 }
 
 @media screen and (max-width: 768px) {
-  .about-me {
-    margin: 0 24px;
+  .about-me figure {
+    float: none;
   }
 }

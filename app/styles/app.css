@@ -27,7 +27,7 @@ h3 {
   font-family: 'Montserrat-Bold';
 }
 
-article, .home-page, .posts, .content {
+article, .home-page, .content {
   max-width: 100rem;
   margin: auto;
 }
