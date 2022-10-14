@@ -14,7 +14,7 @@ module.exports = function (defaults) {
       extensions: ['js', 'css', 'map'],
     },
     prember: {
-      urls: ['/', '/about-me', '/posts', ...posts],
+      urls: ['/', '/about-me', '/contact', '/posts', ...posts],
     },
   });
 

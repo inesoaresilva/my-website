@@ -1,5 +1,23 @@
-{{page-title "Contact"}}
+{{page-title 'Contact'}}
 
-<article>
-    <p>Hey, you can call me 'Work in Progress' page ⚠️😉</p>
-</article>
+<section class='content'>
+  <div class='action-message'>
+    <h1><span class='yellow-underline'>Text me</span></h1>
+    <img role='presentation' alt='' src='../../assets/images/down-arrow.svg' />
+  </div>
+  <div class='contact'>
+    <p> I love to connect and meet new people. Let's get in touch 😊</p>
+    <form name='contact' method='POST' data-netlify='true'>
+      <input type='hidden' name='form-name' value='contact' />
+      <label for='name'>Your Name: </label>
+      <input type='text' name='name' id='name' class='input' />
+      <label for='email'>Your Email: </label>
+      <input type='text' name='name' id='email' class='input' />
+      <label for='message'>Your Message: </label>
+      <textarea type='text' name='name' id='message'></textarea>
+      <div class="submit-button">
+      <button type='submit'>Send</button>
+      </div>
+    </form>
+  </div>
+</section>

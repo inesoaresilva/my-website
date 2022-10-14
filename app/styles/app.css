@@ -6,6 +6,7 @@
 @import './polaroid-image.css';
 @import './post-preview.css';
 @import './about-me.css';
+@import './contact.css';
 
 body {
   padding: 0;
@@ -26,7 +27,7 @@ h3 {
   font-family: 'Montserrat-Bold';
 }
 
-article, .home-page, .posts {
+article, .home-page, .posts, .content {
   max-width: 100rem;
   margin: auto;
 }

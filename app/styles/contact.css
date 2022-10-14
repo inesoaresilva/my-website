@@ -1,0 +1,60 @@
+.contact{
+    display: inline-block;
+}
+
+.contact label {
+  display: block;
+  font-family: 'Montserrat-SemiBold', 'sans-serif';
+  font-size: 16px;
+  color: #5d737e;
+  margin-bottom: 0.5rem;
+}
+
+.contact input,
+.contact textarea {
+  border: none;
+  background-color: #fff8e4;
+  border-radius: 10px;
+  margin-bottom: 0.5rem;
+  width: 100%;
+}
+
+.contact label:last-of-type {
+    margin-top: 1.5rem;
+}
+
+.contact input {
+  height: 2.5em;
+  padding: 0 0.5em;
+}
+
+.contact textarea {
+    height: 10em;
+    padding: 0.5em;
+}
+
+.contact button {
+    border: solid 1.5px #5d737e;
+    border-radius: 5px;
+    background-color: #C1DED8;
+    color: #5d737e;
+    text-transform: uppercase;
+    padding: 8px 20px;
+    font-family: 'Montserrat-Bold', 'sans-serif';
+    margin: 12px 0;
+}
+
+.submit-button {
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 768px) {
+    .contact {
+        width: 80%;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+}
