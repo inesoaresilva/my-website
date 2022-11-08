@@ -16,6 +16,15 @@ module.exports = function (defaults) {
     prember: {
       urls: ['/', '/about-me', '/contact', '/posts', ...posts],
     },
+    'responsive-image': {
+      images: [
+        {
+          include: 'assets/images/posts/**/*',
+          widths: [825, 550, 275],
+          removeSource: false,
+        },
+      ],
+    },
   });
 
   // Use `app.import` to add additional libraries to the generated
