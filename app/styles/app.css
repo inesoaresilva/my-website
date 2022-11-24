@@ -7,6 +7,7 @@
 @import './post-preview.css';
 @import './about-me.css';
 @import './contact.css';
+@import './up-button.css';
 
 body {
   padding: 0;
