@@ -7,7 +7,6 @@ I was working and enjoying the country at the same time. <p> As a way to documen
 <p>At the end, I share a video of a presentation I gave on this topic for the ones that prefer video format.</p>"
 image: "remote-work-cape-verde.jpg"
 date: 2022-09-13T00:00:00.000Z
-comments: 3
 ---
 
 I decided to start the year 2022 in a new country.
@@ -18,10 +17,7 @@ Overall, it was an incredible experience, but as with everything in life, it has
 
 It was a different way of being a tourist, and I wanted to document everything.
 
-<figure>
-<img role='img' alt='img' src='/assets/images/posts/working-remotely-from-cape-verde/starting-website-cv.jpeg' >
-<figcaption> Starting this website in Caravela beach bar 😍 </figcaption>
-</figure>
+![Starting this website in Caravela beach bar 😍](/assets/images/posts/working-remotely-from-cape-verde/starting-website-cv.jpeg)
 
 ---
 
@@ -40,10 +36,7 @@ The latter was a great platform to get into - it increased the excitement of pla
 
 That was it, in October of 2021 I was requesting my passport for the first time. The month after we were booking an Airbnb in S. Vicente and we were buying our flight tickets.
 
-<figure>
-<img role='img' alt='img' src='/assets/images/posts/working-remotely-from-cape-verde/pedra-rolada-sunset.jpg' >
-<figcaption> View of S. Vicente from Cruz de Papa, Pedra Rolada </figcaption>
-</figure>
+![View of S. Vicente from Cruz de Papa, Pedra Rolada](/assets/images/posts/working-remotely-from-cape-verde/pedra-rolada-sunset.jpg)
 
 <h2><span>About the Country</span></h2>
 
@@ -61,10 +54,7 @@ The other reasons were - the country has warm and sunny weather, it has a simila
 We stayed in S. Vicente, the cultural capital of the country.
 You realize that right away when you arrive and see that their airport is named Cesária Évora, an iconic singer born on the island, also known as the queen of Morna (Cape Verdean music genre).
 
-<figure>
-<img role='img' alt='img' src='/assets/images/posts/working-remotely-from-cape-verde/cesaria-evora-mural.jpg' >
-<figcaption> Mural of Cesaria Evora in the center of Mindelo </figcaption>
-</figure>
+![Mural of Cesaria Evora in the center of Mindelo](/assets/images/posts/working-remotely-from-cape-verde/cesaria-evora-mural.jpg)
 
 The music is really present on the island, there are several live music bars, and a recording studio/ bar - Mansa Floating Bar (it was my favorite, and we got a bit obsessed with their kiwi caipirinhas 😂).
 
@@ -75,27 +65,18 @@ We got the chance to visit other islands - Santo Antão, Santa Luzia (the uninha
 Santo Antão is for nature lovers. It is the greenest island.
 There I found a calm and friendly atmosphere. I think it makes a great hiking place.
 
-<figure>
-<img role='img' alt='img' src='/assets/images/intro-image.jpg' />
-<figcaption> Going for a hike in Xôxô, Santo Antão </figcaption>
-</figure>
+![Going for a hike in Xôxô, Santo Antão](/assets/images/posts/working-remotely-from-cape-verde/intro-image.jpg)
 
 Sal is for beach lovers.
 It is small, in one day you can get to see all of the main spots.
 What I loved the most was the beaches - soft sand, they had a lot of beach volleyball 🙌🏼 and less windy than S. Vicente (maybe being closer to continental Africa helps).
 Compared to S. Vicente, I immediately noticed a more significant amount of tourists, which maybe justifies that the prices were higher there.
 
-<figure>
-<img role='img' alt='img' src='/assets/images/posts/working-remotely-from-cape-verde/beach-sal.jpg' />
-<figcaption> Trying to play volleyball in Sal </figcaption>
-</figure>
+![Trying to play volleyball in Sal](/assets/images/posts/working-remotely-from-cape-verde/beach-sal.jpg)
 
 Santa Luzia has not much to see (obviously 😂). What I liked the most was the trip itself to reach there - it was 10h of a sailing boat trip from S. Vicente. Besides that, I think when you land on the island, the feeling of being in a completely desertic place is pretty unique.
 
-<figure>
-<img role='img' alt='img' src='/assets/images/posts/working-remotely-from-cape-verde/stluzia-view.jpg' />
-<figcaption> View of Santa Luzia (the uninhabited island) </figcaption>
-</figure>
+![View of Santa Luzia (the uninhabited island](/assets/images/posts/working-remotely-from-cape-verde/stluzia-view.jpg)
 
 I think out of these, S. Vicente was the best choice for a long-term stay - it is less touristic, but it still has a lot going on. I think you get to experience more authentic and local vibes giving you a better understanding of life in the country. (but probably it will be for a short time, a Sheraton hotel was already under construction next to our BnB 😅).
 
@@ -124,10 +105,7 @@ Here, I think I had my dream routine:
 I start by waking up earlier (since the timezone is GMT-1) and having breakfast with the best balcony view I ever had 🌊;
 On the days I had fewer meetings, I would stay at home and have my lunch break at the beach.
 
-<figure>
-<img role='img' alt='img' src='/assets/images/posts/working-remotely-from-cape-verde/airbnb-cv-view.jpg' >
-<figcaption> Working from our airbnb balcony </figcaption>
-</figure>
+![Working from our airbnb balcony](/assets/images/posts/working-remotely-from-cape-verde/airbnb-cv-view.jpg)
 
 For lunch, we discovered a local “restaurant,” aka a container where the construction workers would go for lunch = large plates of homemade food for 2/3€, served quickly.
 
@@ -140,20 +118,16 @@ At the end of the workday, I would workout at the beach, doing weight-lift with 
 We would cook something for dinner or go out to a restaurant in the evening.
 I never ate so much tuna - my favorite plate was from Café Mindelo, where they served tuna with sesame seeds, vegetables, and brazed potatoes.
 
-<figure>
-<img role='img' alt='img' src='/assets/images/posts/working-remotely-from-cape-verde/tuna-steak-from-cafe-mindelo.jpg' >
-<figcaption> Eating tuna again, and again </figcaption>
-</figure>
+![Eating tuna again, and again](/assets/images/posts/working-remotely-from-cape-verde/tuna-steak-from-cafe-mindelo.jpg)
 
 The restaurant from the docks was my preference for lunchtime because I could catch the sun while having my favorite meal from them - sawfish with curry rice.
 
 After dinner, we often went out for a drink with the community of other remote workers.
 
 Something that I find cool is that a lot of times, we would have locals joining us for the after dinner reunions.
-<figure>
-<img role='img' alt='img' src='/assets/images/posts/working-remotely-from-cape-verde/cafe-mindelo.jpg' >
-<figcaption> Hanging out in the center, Cafe Mindelo </figcaption>
-</figure>
+
+![Hanging out in the center, Cafe Mindelo](/assets/images/posts/working-remotely-from-cape-verde/cafe-mindelo.jpg)
+
 In our discord group, we actually had a local helping to organise activities with us.
 
 Later in my stay, I started including more activities to my week, I joined a local crossfit group and I was attending Kizomba dance classes 💃🏼
@@ -170,10 +144,7 @@ I met many people from all over, and I think having this community living the sa
 
 Two months was a reasonable time frame: the first month, I was exploring, and in the second, I started to feel like an inhabitant - I was going to my favorite places, and I had a more defined routine.
 
-<figure>
-<img role='img' alt='img' src='/assets/images/posts/working-remotely-from-cape-verde/camping-cape-verde.jpg' >
-<figcaption> Camping in a desertic beach with other remote workers</figcaption>
-</figure>
+![Camping in a desertic beach with other remote workers](/assets/images/posts/working-remotely-from-cape-verde/camping-cape-verde.jpg)
 
 My favorite plan happened when we went for an off-road drive to reach a big desertic beach and spend a night there.
 We did all the cliches of a beach campfire - obviously, the bonfire first, singing Wonderwall on the guitar, watching the stars and the fluorescent plankton in the water.
@@ -182,10 +153,7 @@ We did all the cliches of a beach campfire - obviously, the bonfire first, singi
 
 Connecting with locals, made me feel less like a tourist and more like an inhabitant.
 
-<figure>
-<img role='img' alt='img' src='/assets/images/posts/working-remotely-from-cape-verde/tennis-with-jose.jpeg' >
-<figcaption> Playing tennis with Jose</figcaption>
-</figure>
+![Playing tennis with Jose](/assets/images/posts/working-remotely-from-cape-verde/tennis-with-jose.jpeg)
 
 I think staying longer than a month was key for this to happen, added to the fact that locals are so easygoing and open to others.
 
@@ -198,10 +166,7 @@ Anna has been a digital nomad for some years now, and she often publishes her ex
 Their interaction resulted in the idea of organizing meetups with other remote workers and locals.
 These meetups resulted in a very inspiring environment and I think it was a great initiative.
 
-<figure>
-<img role='img' alt='img' src='/assets/images/posts/working-remotely-from-cape-verde/cape-verde-meetings.jpg' >
-<figcaption> Sharing my career path and my experience as a remote worker</figcaption>
-</figure>
+![Sharing my career path and my experience as a remote worker](/assets/images/posts/working-remotely-from-cape-verde/cape-verde-meetings.jpg)
 
 Besides that, we start organizing football matches and barbecues.
 
@@ -228,10 +193,7 @@ The co-working space could be improved, I mean, it matched all the basic needs o
 For a fixed desk, the price was 150e (similar prices in Porto).
 I guess the reason behind the price was the fact it was the only co-working in town.
 
-<figure>
-<img role='img' alt='img' src='/assets/images/posts/working-remotely-from-cape-verde/coworking-cv.jpeg' >
-<figcaption> Working from Prime Coworking </figcaption>
-</figure>
+![Working from Prime Coworking](/assets/images/posts/working-remotely-from-cape-verde/coworking-cv.jpeg)
 
 ### Being a Woman & Staying Alone
 
