@@ -17,6 +17,7 @@ module.exports = function (defaults) {
       urls: ['/', '/about-me', '/contact', '/posts', ...posts],
     },
     'responsive-image': {
+      fingerprint: false,
       images: [
         {
           include: 'assets/images/posts/**/*',
