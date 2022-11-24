@@ -5,7 +5,7 @@
   </div>
   <p class="post-date"> post created in {{format-date @model.date}}</p>
   <div class="blogpost-body">
-    {{{@model.html}}}
+    {{markdown-to-html @model.content extensions="polaroid"}}
   </div>
 
 </article>
