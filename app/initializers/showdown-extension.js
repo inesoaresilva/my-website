@@ -21,11 +21,10 @@ export function initialize(/* application */) {
               type === '.webp' ? 'webp' : 'jpeg'
             }">`;
           });
-
           return `<figure>
           <picture>
               ${sources}
-              <img role='img' alt='img' src='${src}${extension}' >
+              <img role='img' alt=${caption} src='${src}${extension}' >
             </picture>
             <figcaption> ${caption} </figcaption>
           </figure>`;
