@@ -21,7 +21,7 @@ module.exports = function (defaults) {
       images: [
         {
           include: 'assets/images/posts/**/*',
-          widths: [825, 550, 275],
+          widths: [1100, 825, 550, 275],
           removeSource: false,
         },
       ],
