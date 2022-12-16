@@ -29,7 +29,7 @@ h3 {
 }
 
 article, .home-page, .content {
-  max-width: 100rem;
+  max-width: 80rem;
   margin: auto;
 }
 
@@ -91,6 +91,16 @@ article, .home-page, .content {
   color: #5d727e;
 }
 
+.full-post .blogpost-body code:not([class*=language-]) {
+  border-radius: 3px;
+  padding: .2em .5em;
+  margin: 0 .1em;
+  border: 1px solid rgb(193, 222, 219);;
+  background-color: rgba(193, 222, 219,0.5);
+  color: #5d737e;
+
+}
+
 .full-post .blogpost-body {
   display: block;
   margin-top: 24px;
@@ -123,6 +133,23 @@ article, .home-page, .content {
   clear: both;
   margin-bottom: 1.5rem;
   margin-left: 1.5rem;
+}
+
+.full-post figure.normal {
+  float: none;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: none;
+  margin-left: 0;
+}
+
+.full-post figure.normal img {
+  width: 50%;
+  margin: auto;
+  aspect-ratio: auto;
+
 }
 
 .action-message img {
@@ -162,7 +189,7 @@ h2 {
     180deg,
     transparent,
     transparent 50%,
-    rgba(255, 229, 164, 1) 50%,
+    rgb(255, 229, 164) 50%,
     rgba(255, 229, 164, 1) 
   ); 
 }
@@ -211,6 +238,12 @@ h2 {
   .blogpost-body {
     display: flex;
     flex-direction: column;
+  }
+  .full-post figure.normal img {
+    width: 90%;
+    margin: auto;
+    aspect-ratio: auto;
+  
   }
 }
 
