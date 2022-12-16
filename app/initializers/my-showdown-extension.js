@@ -5,10 +5,15 @@ export function initialize(/* application */) {
     return [
       {
         type: 'lang',
-        regex: /^!\[(.*)\]\((.*)(\..+)\)/gm,
-        replace: function name(_, caption, src, extension) {
+        regex: /^!\[(.*)\]\((.*)(\.[^#]+)(#.*)?\)/gm,
+        replace: function name(_, caption, src, extension, hashtag) {
           const types = ['.webp', '.jpg'];
-          const sizes = ['825', '550', '275'];
+          const sizes = ['1100', '825', '550', '275'];
+
+          let figureClass = '';
+          if (hashtag) {
+            figureClass = hashtag.replace('#', '');
+          }
 
           let sources = '';
           types.forEach((type) => {
@@ -21,10 +26,10 @@ export function initialize(/* application */) {
               type === '.webp' ? 'webp' : 'jpeg'
             }">`;
           });
-          return `<figure>
+          return `<figure class="${figureClass}">
           <picture>
               ${sources}
-              <img role='img' alt=${caption} src='${src}${extension}' >
+              <img role='img' alt='${caption}' src='${src}${extension}' >
             </picture>
             <figcaption> ${caption} </figcaption>
           </figure>`;

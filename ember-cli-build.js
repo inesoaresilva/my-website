@@ -16,12 +16,23 @@ module.exports = function (defaults) {
     prember: {
       urls: ['/', '/about-me', '/contact', '/posts', ...posts],
     },
+    'ember-prism': {
+      theme: 'okaidia',
+      components: [
+        'markdown',
+        'handlebars',
+        'javascript',
+        'markup-templating',
+        'markup',
+        'yaml',
+      ],
+    },
     'responsive-image': {
       fingerprint: false,
       images: [
         {
           include: 'assets/images/posts/**/*',
-          widths: [825, 550, 275],
+          widths: [1100, 825, 550, 275],
           removeSource: false,
         },
       ],
