@@ -7,6 +7,9 @@
   <div class="blogpost-body">
     {{markdown-to-html @model.content extensions="polaroid"}}
   </div>
+  <div class="sun-reaction">
+    <Reaction></Reaction>
+  </div>
   <UpButton/>
 </article>
 {{outlet}}
