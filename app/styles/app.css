@@ -8,6 +8,7 @@
 @import './about-me.css';
 @import './contact.css';
 @import './up-button.css';
+@import './reaction.css';
 
 body {
   padding: 0;
