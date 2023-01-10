@@ -6,6 +6,7 @@ I was working and enjoying the country at the same time. <p> As a way to documen
 <p>Lastly, I reflect on my nomad experience and I put down what I think about nomadic lifestyle.</p>
 <p>At the end, I share a video of a presentation I gave on this topic for the ones that prefer video format.</p>"
 image: "remote-work-cape-verde.jpg"
+header: "cape-verde.jpg"
 date: 2022-09-13T00:00:00.000Z
 ---
 
@@ -218,7 +219,7 @@ In Cape Verde, most people I met would have a base, and they would travel some p
 I think I would place myself in the same category.
 I like to feel that I'm coming back home, so a base is important for me.
 
-I encourage everyone to try out this lifestyle if you have the chance -  you get to know yourself better, your social batteries, and your interests. Also, if you're someone that already likes to travel, I think traveling in this way can be more meaningful.
+I encourage everyone to try out this lifestyle if you have the chance - you get to know yourself better, your social batteries, and your interests. Also, if you're someone that already likes to travel, I think traveling in this way can be more meaningful.
 
 I just want to let awareness that there are challenges in being a nomad, the world is still not fully adapted to this lifestyle - most things require long-term contracts and short-term solutions tend to be way more expensive, especially housing.
 
