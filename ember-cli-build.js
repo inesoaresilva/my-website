@@ -35,6 +35,11 @@ module.exports = function (defaults) {
           widths: [1100, 825, 550, 275],
           removeSource: false,
         },
+        {
+          include: 'assets/images/header/**/*',
+          widths: [2880, 1440, 840, 420],
+          removeSource: false,
+        },
       ],
     },
   });
