@@ -115,7 +115,7 @@ Another challenge is that **you always need to think about how things look on mo
 
 ### My First Coding Challenge
 
-*‘How to create a dropdown in ember?’*.
+_‘How to create a dropdown in ember?’_.
 
 Of course, I googled this. However, **most of the blog posts presented old solutions**, using things like `{{action}}`, which is no longer the way of doing it.
 
@@ -123,12 +123,12 @@ Chris helped me with this, and I think I will later do one post about it for tho
 
 ### Rendering Blogposts
 
-Another key point of my website was *‘How will I write my blog posts?’*; *‘am I going to write on HTML every time?’* That looks like a lot of headaches.
+Another key point of my website was _‘How will I write my blog posts?’_; _‘am I going to write on HTML every time?’_ That looks like a lot of headaches.
 Chris proposed to **create posts using markdown files,** then he introduced me to the [ember-cli-showdown add-on](https://www.npmjs.com/package/ember-cli-showdown).
 
 It is a **component** that will **convert my markdown into a readable HTML object**.
 
-This way, I have a faster and more human approach for writing my posts, and the addon takes care of converting my post into something readable by the browser. *It’s a deal 🤝*.
+This way, I have a faster and more human approach for writing my posts, and the addon takes care of converting my post into something readable by the browser. _It’s a deal 🤝_.
 
 ### Installing Broccoli-Static-Site-Json
 
@@ -153,7 +153,7 @@ Here is an example of my `post-preview` component template file:
     <p class='blogpost-description'>{{markdown-to-html @post.description}}</p>
     <PolaroidImage
       @src='../../assets/images/{{@post.image}}'
-      @description='post created in {{format-date @post.date}}'
+      @description='post created on {{format-date @post.date}}'
     />
   </div>
 </article>
@@ -180,11 +180,11 @@ Now **to glue the attributes my JSON API is expecting to their values**, I **spe
 ---
 title: How I Built This Website
 category: tech
-description: " I’m so happy to see a project of my own being out there. 
-Today, I wanted to look back and see how this started and how it went. 
-It has been a long ride that is still going on - right now, I’m starting to focus on improving the performance of my website (a topic for a later post 😉). 
-I learned a lot about design, UI sketching tools, like Figma, and a new JS framework for me - Ember. 
-I deployed a website for the first time 🙌 and I got to fix the challenges that may come with it. 
+description: " I’m so happy to see a project of my own being out there.
+Today, I wanted to look back and see how this started and how it went.
+It has been a long ride that is still going on - right now, I’m starting to focus on improving the performance of my website (a topic for a later post 😉).
+I learned a lot about design, UI sketching tools, like Figma, and a new JS framework for me - Ember.
+I deployed a website for the first time 🙌 and I got to fix the challenges that may come with it.
 Perhaps this can be useful for someone that is also interested in start creating their own corner in the internet."
 image: "foggy-work-day.jpg"
 date: 2022-11-24T00:00:00.000Z
@@ -197,13 +197,13 @@ Thanks to Broccolli I get my static markdown files into static JSON:API.
 
 Ok, we reach the last pokemon level here.
 
-When I told myself, *‘Ok, I have all the main functionalities I wanted, and it looks quite close to my designs,’* it is time to put it out there 🕺💃
+When I told myself, _‘Ok, I have all the main functionalities I wanted, and it looks quite close to my designs,’_ it is time to put it out there 🕺💃
 
 I **bought a domain** in [namecheap](https://www.namecheap.com/) and I deployed my website using [netlify](https://www.netlify.com/).
 
 What were the challenges I faced in this phase?
 
-1. Saying *‘It is ready to become public’* 😂.
+1. Saying _‘It is ready to become public’_ 😂.
 
 The website was not exactly how I first idealized it.
 

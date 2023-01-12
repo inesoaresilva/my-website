@@ -10,7 +10,7 @@
     <p class='blogpost-description'>{{markdown-to-html @post.description}}</p>
     <PolaroidImage
       @src='../../assets/images/{{@post.image}}'
-      @description='post created in {{format-date @post.date}}'
+      @description='post created on {{format-date @post.date}}'
     />
   </div>
 </article>
