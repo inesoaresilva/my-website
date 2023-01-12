@@ -1,6 +1,9 @@
 <div class='image-container'>
-  <img class='main-image' src='/assets/images/intro-image.jpg' />
-
+  {{#if @image }}
+    <ResponsiveImage class="main-image" @src="/assets/images/header/{{@image}}"/>
+  {{else}}
+    <ResponsiveImage class="main-image" @src="/assets/images/header/intro-image.jpg"/>
+  {{/if}}
 </div>
 
 {{yield}}

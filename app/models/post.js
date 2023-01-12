@@ -9,4 +9,5 @@ export default class PostModel extends Model {
   @attr comments;
   @attr content;
   @attr html;
+  @attr header;
 }
