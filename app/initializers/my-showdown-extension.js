@@ -5,7 +5,7 @@ export function initialize(/* application */) {
     return [
       {
         type: 'lang',
-        regex: /^!\[(.*)\]\((.*)(\.[^#]+)(#.*)?\)/gm,
+        regex: /^!\[(.*)\]\((.*)(\.\w+)(#.*)?\)/gm,
         replace: function name(_, caption, src, extension, hashtag) {
           const types = ['.webp', '.jpg'];
           const sizes = ['1100', '825', '550', '275'];
