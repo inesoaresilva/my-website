@@ -7,9 +7,11 @@
   <div class="blogpost-body">
     {{markdown-to-html @model.content extensions="polaroid"}}
   </div>
+  {{#if this.notFastboot}}
   <div class="sun-reaction">
-    <Reaction></Reaction>
+    <Reaction @id={{@model.id}}></Reaction>
   </div>
+  {{/if}}
   <UpButton/>
 </article>
 {{outlet}}
