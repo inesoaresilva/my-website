@@ -6,8 +6,6 @@ export default class PostModel extends Model {
   @attr category;
   @attr description;
   @attr image;
-  @attr comments;
   @attr content;
-  @attr html;
   @attr header;
 }
